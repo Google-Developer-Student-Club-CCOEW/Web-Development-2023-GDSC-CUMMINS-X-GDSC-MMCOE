@@ -29,6 +29,16 @@ Welcome Cummins College and MMCOE students! This repository is designed to facil
 
 Thank you for your cooperation and understanding. We look forward to working with you on this repository! 🌟🚀
 
+
+This repository is divided into two modules:
+
+1. **Project Module - QR-Based Attendance System**: This module contains all the issues related to our main project, the QR-Based Attendance System. To request assignment for issues related to this project, create a pull request and provide the requested information. We'll validate your eligibility before assigning project-related issues.
+
+2. **Mini Project Module - Beginner-Friendly**: The Mini Project module is designed for beginners and contains various independent modules. If you're just starting out, you can request assignment for issues within this module. Provide the necessary details in your pull request, and we'll validate your eligibility.
+
+⚠️Please ensure that your pull request follows the guidelines mentioned above. Only Cummins College and MMCOE students' pull requests will be considered.
+
+
 ## Contributing to this Repo
 
 **1.** Fork [this](https://github.com/Google-Developer-Student-Club-CCOEW/Web-Development/fork) repository.
