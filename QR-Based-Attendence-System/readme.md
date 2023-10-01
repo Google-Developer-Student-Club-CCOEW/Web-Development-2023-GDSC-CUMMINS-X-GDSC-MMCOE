@@ -1,42 +1,44 @@
-# QR-Based Attendance System - Web Application Documentation
+Certainly, here's a README file for your project based on the schema and information you provided:
+
+# QR-Based Attendance System - Web Application
 
 ## Table of Contents
-1. Introduction
-2. Project Overview
-3. User Roles and Functionality
-    - 3.1 Teacher
-    - 3.2 Student
-4. System Architecture
-    - 4.1 Frontend (HTML, CSS, JavaScript)
-    - 4.2 Backend (Node.js)
-5. API Endpoints
-    - 5.1 Teacher Registration and Login API
-    - 5.2 Student Registration and Login API
-    - 5.3 getStudentDetails API
-    - 5.4 getTeacherDetails API
-    - 5.5 Generate QR Code API
-    - 5.6 Set QR Limit Functionality
-    - 5.7 Scan QR API
-6. User Interfaces
-    - 6.1 Teacher Details Page UI
-    - 6.2 Student Details Page UI
-    - 6.3 Create Class UI
-    - 6.4 Scan Class UI
-7. System Functionality
-    - 7.1 Teacher Registration and Login
-    - 7.2 Student Registration and Login
-    - 7.3 Create Class Functionality
-    - 7.4 Generate QR Code Functionality
-    - 7.5 Scan QR Code Functionality
-8. Dashboard Features
-    - 8.1 Teacher Dashboard
-    - 8.2 Student Dashboard
+1. [Introduction](#1-introduction)
+2. [Project Overview](#2-project-overview)
+3. [User Roles and Functionality](#3-user-roles-and-functionality)
+    - 3.1 [Teacher](#31-teacher)
+    - 3.2 [Student](#32-student)
+4. [System Architecture](#4-system-architecture)
+    - 4.1 [Frontend](#41-frontend-html-css-javascript)
+    - 4.2 [Backend](#42-backend-nodejs)
+5. [API Endpoints](#5-api-endpoints)
+    - 5.1 [Teacher Registration and Login API](#51-teacher-registration-and-login-api)
+    - 5.2 [Student Registration and Login API](#52-student-registration-and-login-api)
+    - 5.3 [Get Student Details API](#53-get-student-details-api)
+    - 5.4 [Get Teacher Details API](#54-get-teacher-details-api)
+    - 5.5 [Generate QR Code API](#55-generate-qr-code-api)
+    - 5.6 [Set QR Limit Functionality](#56-set-qr-limit-functionality)
+    - 5.7 [Scan QR API](#57-scan-qr-api)
+6. [User Interfaces](#6-user-interfaces)
+    - 6.1 [Teacher Details Page UI](#61-teacher-details-page-ui)
+    - 6.2 [Student Details Page UI](#62-student-details-page-ui)
+    - 6.3 [Create Class UI](#63-create-class-ui)
+    - 6.4 [Scan Class UI](#64-scan-class-ui)
+7. [System Functionality](#7-system-functionality)
+    - 7.1 [Teacher Registration and Login](#71-teacher-registration-and-login)
+    - 7.2 [Student Registration and Login](#72-student-registration-and-login)
+    - 7.3 [Create Class Functionality](#73-create-class-functionality)
+    - 7.4 [Generate QR Code Functionality](#74-generate-qr-code-functionality)
+    - 7.5 [Scan QR Code Functionality](#75-scan-qr-code-functionality)
+8. [Dashboard Features](#8-dashboard-features)
+    - 8.1 [Teacher Dashboard](#81-teacher-dashboard)
+    - 8.2 [Student Dashboard](#82-student-dashboard)
 
 ---
 
 ## 1. Introduction
 
-This documentation outlines the design and functionality of the QR-Based Attendance System, a web application built using HTML, CSS, JavaScript for the frontend and Node.js for the backend. The system aims to simplify attendance tracking in educational institutions through QR code technology.
+This documentation outlines the design and functionality of the QR-Based Attendance System, a web application built using HTML, CSS, and JavaScript for the frontend, and Node.js for the backend. The system aims to simplify attendance tracking in educational institutions through QR code technology.
 
 ## 2. Project Overview
 
@@ -75,10 +77,10 @@ The QR-Based Attendance System allows teachers to create and manage classes, gen
 - `/student/register` - Register a new student
 - `/student/login` - Authenticate a student
 
-### 5.3 getStudentDetails API
+### 5.3 Get Student Details API
 - `/student/details` - Retrieve student details
 
-### 5.4 getTeacherDetails API
+### 5.4 Get Teacher Details API
 - `/teacher/details` - Retrieve teacher details
 
 ### 5.5 Generate QR Code API
@@ -139,3 +141,33 @@ The QR-Based Attendance System allows teachers to create and manage classes, gen
 - View details of attended classes
 
 ---
+
+## Schema
+
+### Student Table
+- Student_id
+- Full Name
+- Branch
+- Email
+- Year
+- Password
+
+### Teacher Table
+- Teacher_id
+- Full Name
+- Branch
+- Email
+- Specialization
+- Password
+
+### Class Table
+- Class_id
+- Class_name
+- Teacher_id
+- Start_time
+- End_time
+- Date
+- Attendees (Array)
+
+## Color Theme
+The color theme strictly follows a white background and blue color wherever color is needed. The hex color code for blue is `#007BFF`.
