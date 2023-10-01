@@ -1,31 +1,33 @@
-#Web-Development-2023
+🌐 WEB Development 2023 🚀
 
 
 ![GDSC](https://user-images.githubusercontent.com/56436897/193326497-f15493fe-c12e-455f-b86c-28fcf539e7a7.png)
 
 
-Welcome! Cummins College and MMCOE students! This repository is designed to facilitate the assignment of GitHub issues to eligible students from Cummins College and MMCOE. To ensure a smooth and efficient process, we have implemented a validation system that requires students to provide specific information when requesting assignment of an issue.
+Welcome Cummins College and MMCOE students! This repository is designed to facilitate the assignment of GitHub issues to eligible students from Cummins College and MMCOE. To ensure a smooth and efficient process, we have implemented a validation system that requires students to provide specific information when requesting assignment of an issue.
 
-How to Request Assignment:
-Create a Pull Request: Start by creating a pull request to request the assignment of an issue. Ensure that your pull request follows the repository's guidelines for issue assignment. 📥
+## How to Request Assignment:
 
-Provide Required Information: In your pull request description, you must provide the following information:
+1. **Create a Pull Request**: Start by creating a pull request to request the assignment of an issue. Ensure that your pull request follows the repository's guidelines for issue assignment. 📥
 
-Full Name 🧑‍🎓
-Email Address 📧
-College Unique ID (RNO) 🔢
-Branch of Study 📚
-Current Year of Study 📆
-Validation Process: Our team will review your pull request to ensure that you are a valid student from Cummins College or MMCOE. We will cross-check the provided information with our records to confirm your eligibility. 🕵️‍♂️
+2. **Provide Required Information**: In your pull request description, you must provide the following information:
+   - Full Name 🧑‍🎓
+   - Email Address 📧
+   - College Unique ID (RNO) 🔢
+   - Branch of Study 📚
+   - Current Year of Study 📆
 
-Assignment Confirmation: Once your information is validated, we will assign the requested issue to you. You will receive a notification confirming the assignment. 🎉
+3. **Validation Process**: Our team will review your pull request to ensure that you are a valid student from Cummins College or MMCOE. We will cross-check the provided information with our records to confirm your eligibility. 🕵️‍♂️
 
-Important Notes:
-Only pull requests from students of Cummins College and MMCOE will be considered for assignment. 🏫
-Any pull requests that do not follow the specified format or lack necessary information will not be merged. 🚫
-Please ensure that the email address you provide in the pull request is associated with your academic institution for verification purposes. 📚
+4. **Assignment Confirmation**: Once your information is validated, we will assign the requested issue to you. You will receive a notification confirming the assignment. 🎉
+
+## Important Notes:
+
+- Only pull requests from students of Cummins College and MMCOE will be considered for assignment. 🏫
+- Any pull requests that do not follow the specified format or lack necessary information will not be merged. 🚫
+- Please ensure that the email address you provide in the pull request is associated with your academic institution for verification purposes. 📚
+
 Thank you for your cooperation and understanding. We look forward to working with you on this repository! 🌟🚀
-
 
 ## Contributing to this Repo
 
