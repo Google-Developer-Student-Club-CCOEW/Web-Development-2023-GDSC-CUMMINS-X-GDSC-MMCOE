@@ -4,7 +4,7 @@
 ![GDSC](https://user-images.githubusercontent.com/56436897/193326497-f15493fe-c12e-455f-b86c-28fcf539e7a7.png)
 
 
-Welcome Cummins College and MMCOE students! This repository is designed to facilitate the assignment of GitHub issues to eligible students from Cummins College and MMCOE. To ensure a smooth and efficient process, we have implemented a validation system that requires students to provide specific information when requesting assignment of an issue.
+Welcome Cummins and MMCOE  College students! This repository is designed to facilitate the assignment of GitHub issues to eligible students from Cummins College and MMCOE. To ensure a smooth and efficient process, we have implemented a validation system that requires students to provide specific information when requesting assignment of an issue.
 
 ## How to Request Assignment:
 
