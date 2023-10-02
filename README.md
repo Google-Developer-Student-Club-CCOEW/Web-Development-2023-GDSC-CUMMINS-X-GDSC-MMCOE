@@ -40,7 +40,6 @@ This repository is divided into two modules:
 
 
 ## Contributing to this Repo
-
 **1.** Fork [this](https://github.com/Google-Developer-Student-Club-CCOEW/Web-Development/fork) repository.
 
 **2.** Clone the forked repository.
@@ -49,12 +48,42 @@ This repository is divided into two modules:
 git clone https://github.com/<your-github-username>/project_name.git
 ```
 
-**3.** Navigate to the project directory.
+### For Project : QR based Attendance System
+**3.** Navigate to the project directory
 
 ```bash
-cd Flutter
+cd QR-Based-Attendence-System
+```
+### For Open Problem Statement 
+**3.** Navigate to the problem statement directory
+
+```bash
+cd Problem-Statements
 ```
 
+**3.1.** Create Project directory
+```bash
+cd short-name-problem-statement 
+```
+or 
+```bash
+create folder short-name-problem-statement 
+```
+Note : Please check Problem statement project already created or not , If not then and only create project folder with proper short name
+
+**3.1.** Create Project directory
+```bash
+cd short-name-problem-statement 
+```
+```bash
+create folder short-name-problem-statement 
+```
+
+
+**3.2.** Create Project structure
+```bash
+cd short-name-problem-statement 
+```
 **4.** Creating a new branch (IMP) 🌱
 This is one of the very important step that you should follow to contribute in Open Source. A branch helps to manage the workflow, isolate your code and does not creates a mess. To create a new branch:
 
