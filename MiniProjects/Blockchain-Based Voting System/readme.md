@@ -70,7 +70,11 @@ This project is licensed under the [GDSC License](LICENSE).
 
 
 Full Name Mayowa Julius Ogungbola
+
 Email Address: ogungbolamayowa@gmail.com
+
 College Unique ID (RNO): 210808016
+
 Branch of Study 📚: Physics
+
 Current Year of Study 📆: 3rd year
