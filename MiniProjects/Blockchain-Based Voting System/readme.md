@@ -66,3 +66,11 @@ This project is licensed under the [GDSC License](LICENSE).
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - for web development resources and documentation.
 - [w3schools](www.w3schools.com) - for tutorials and examples on web technologies.
 - Feel free to reach out if you have any questions or need further assistance.
+
+
+
+Full Name Mayowa Julius Ogungbola
+Email Address: ogungbolamayowa@gmail.com
+College Unique ID (RNO): 210808016
+Branch of Study 📚: Physics
+Current Year of Study 📆: 3rd year
